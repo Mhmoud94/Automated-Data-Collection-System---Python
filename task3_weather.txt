@@ -1,0 +1,30 @@
+================================================================================
+TASK 3: WEATHER DATA SCRAPING
+City: Stockholm
+Date: 2025-10-17 23:26:02
+================================================================================
+
+WEBSITE 1: Wttr.in
+--------------------------------------------------------------------------------
+URL: https://wttr.in/stockholm?format=j1
+Status: Success
+City: Stockholm
+Temperature: 6°C
+Description: Overcast
+Humidity: 70%
+Wind Speed: 12 km/h
+Timestamp: 2025-10-17 23:26:02
+================================================================================
+
+WEBSITE 2: TimeAndDate.com
+--------------------------------------------------------------------------------
+URL: https://www.timeanddate.com/weather/sweden/stockholm
+Status: Success
+City: Stockholm
+Temperature: 2 °C
+Description: Clear.
+Humidity: N/A
+Wind Speed: N/A
+Timestamp: 2025-10-17 23:26:02
+================================================================================
+
